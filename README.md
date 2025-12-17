@@ -129,7 +129,7 @@ python app.py
 ## 👨‍💻 Author
 
 **Mubasir Anwar**
-🎓 Machine Learning Enthusiast | System Engineering Student
+🎓 Machine Learning Enthusiast | System Engineering Student<br>
 🔍 Focused on **ML, Docker, and Model Deployment**
 
 ---
@@ -142,6 +142,3 @@ If you find this project useful:
 * 🐳 Pull the Docker image
 * 🍴 Fork and experiment
 
-
-
-Just tell me 👍
